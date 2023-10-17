@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Jacob Haimes' Portfolio"
-email: jacob.d.haimes@gmail.com
+title: "Into AI Safety Website"
+email: jacob.d.haimes+intoaisafety@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Professional portfolio of Jacob Haimes.
+  Into AI Safety podcast website
 # twitter_username: username
-github_username: jacob-haimes
+github_username: into-ai-safety
 minimal_mistakes_skin: dark
 search: true
 
@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Jacob Haimes"
+  name   : "Into AI Safety"
   avatar : "/assets/images/jacobHeadshotTeal_small.png"
-  bio    : "Master of Science in Mechanical Engineering with a focus of Computational Modeling, specializing in Optimization and Visualization."
+  bio    : "Welcome to the Into AI Safety podcast website!"
 #   links:
 #     - label: "Website"
 #       icon: "fas fa-fw fa-link"
@@ -78,9 +78,9 @@ footer:
 #     - label: "Twitter"
 #       icon: "fab fa-fw fa-twitter-square"
 #       url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/jacob-haimes"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/jacob-haimes"
 #     - label: "Instagram"
 #       icon: "fab fa-fw fa-instagram"
 #       url: "https://instagram.com/"
