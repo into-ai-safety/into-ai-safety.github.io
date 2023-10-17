@@ -5,4 +5,3 @@ title: "About"
 The official website for the Into AI Safety podcast.
 
 For more information on the host, Jacob Haimes, you can visit his <a href="https://jacob-haimes.github.io" target="_blank" rel="noreferrer noopener">portfolio</a>.
-<a href="https://jacob-haimes.github.io/PDFs/Jacob-Haimes_Resume_GitHub.pdf" target="_blank" rel="noreferrer noopener">Current Resume</a>
