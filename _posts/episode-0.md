@@ -1,6 +1,6 @@
 ---
 title: "Episode 0 - Intro"
-date: 2023-10-21
+date: 2023-10-21T00:00:00-07:00
 categories:
   - Episode
 ---
