@@ -8,7 +8,7 @@ The official website for the Into AI Safety podcast.
 
 - All episodes will be published on Spotify and this website (this list will be updated once I am on more platforms).
 - You can subscribe to the RSS feed for this website <a href="https://into-ai-safety.github.io/feed.xml" target="_blank" rel="noreferrer noopener">here</a>.
-- Currently, there is no established schedule for episode releases, but I will aim for one approximately every week.
+- Starting in early December, an episode will be released approximately once every other week.
 <br>
 
 ### Additional Information
