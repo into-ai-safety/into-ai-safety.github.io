@@ -24,7 +24,7 @@ minimal_mistakes_skin: dark
 comments:
   provider: "utterances"
   utterances:
-    theme: "icy-dark"
+    theme: "github-dark"
     issue_term: "pathname"
     label: "utter"
 search: true
