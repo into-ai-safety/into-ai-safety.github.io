@@ -23,6 +23,7 @@ github_username: into-ai-safety
 minimal_mistakes_skin: dark
 comments:
   provider: "utterances"
+  utterances:
     theme: "icy-dark"
     issue_term: "pathname"
     label: "utter"
