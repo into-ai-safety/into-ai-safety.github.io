@@ -101,25 +101,18 @@ author:
 
 footer:
   links:
-    - label: "Anonymous Feedback Form"
+    - label: "Feedback Form"
       icon: "fas fa-fw fa-envelope-open-text"
       url: "https://docs.google.com/forms/d/e/1FAIpQLSdXqpGGb0uWgpQd8CUvKP6g2Ki8FrDsEBzFfQBrBoSZPlxjDQ/viewform?usp=sf_link"
     - label: "Email"
       icon: "fas fa-fw fa-at"
       url: "mailto:intoaisafety@gmail.com"
-    - label: "Spotify"
-      icon: "fab fa-fw fa-spotify"
-      url: "https://open.spotify.com/show/5AGzrA4jo6mgZuibVabTLM"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
-    # - label: "GitHub"
-    #   icon: "fab fa-fw fa-github"
-    #   url: "https://github.com/jacob-haimes"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
-    #
+    # - label: "Spotify"
+    #   icon: "fab fa-fw fa-spotify"
+    #   url: "https://open.spotify.com/show/5AGzrA4jo6mgZuibVabTLM"
+    - label: "GitHub Repo"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/into-ai-safety/into-ai-safety.github.io"
 
 defaults:
   # _posts
