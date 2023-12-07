@@ -65,7 +65,7 @@ plugins:
 author:
   name   : "Into AI Safety"
   avatar : "/assets/images/into-ai-safety_v1_1024.png"
-  bio    : "Welcome to the Into AI Safety podcast website! Like the show? Think it could be improved? Fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLSdXqpGGb0uWgpQd8CUvKP6g2Ki8FrDsEBzFfQBrBoSZPlxjDQ/viewform?usp=sf_link" target="_blank" rel="noreferrer noopener">this anonymous feedback form</a> to let me know! Please email all inquiries to <intoaisafety@gmail.com>."
+  bio    : "Welcome to the Into AI Safety podcast website!"
   links:
     - label: "Amazon Music"
       # icon: "assets/images/platform-branding/amazon-music-logo-scaled.png"
