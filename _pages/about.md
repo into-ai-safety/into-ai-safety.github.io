@@ -6,7 +6,7 @@ The official website for the Into AI Safety podcast.
 
 ### Logistics
 
-- All episodes will be published on Spotify and this website (this list will be updated once I am on more platforms).
+- All episodes will be published to all podcast platforms linked on this site, as well as this website.
 - You can subscribe to the RSS feed for this website <a href="https://into-ai-safety.github.io/feed.xml" target="_blank" rel="noreferrer noopener">here</a>.
 - Starting in early December, an episode will be released approximately once every other week.
 <br>

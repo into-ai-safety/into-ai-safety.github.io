@@ -101,15 +101,21 @@ author:
 
 footer:
   links:
-#     - label: "Twitter"
-#       icon: "fab fa-fw fa-twitter-square"
-#       url: "https://twitter.com/"
+    - label: "Anonymous Feedback Form"
+      icon: "fa-solid fa-envelope-open-text"
+      url: "https://docs.google.com/forms/d/e/1FAIpQLSdXqpGGb0uWgpQd8CUvKP6g2Ki8FrDsEBzFfQBrBoSZPlxjDQ/viewform?usp=sf_link"
+    - label: "Email"
+      icon: "fa-solid fa-at"
+      url: "mailto:intoaisafety@gmail.com"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/"
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
     #   url: "https://github.com/jacob-haimes"
-#     - label: "Instagram"
-#       icon: "fab fa-fw fa-instagram"
-#       url: "https://instagram.com/"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
 
 defaults:
   # _posts
