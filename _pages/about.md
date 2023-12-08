@@ -6,10 +6,10 @@ The official website for the Into AI Safety podcast.
 
 ### Logistics
 
-- Content will be released every week at 9:00 on Monday mornings (for me, which is Mountain Time - see time conversion chart below for other time zones).
-- I will alternate between full length episodes and shorter (approximately 15 minute) minisodes.
-- All episodes will be published to all podcast platforms linked on this site, as well as this website.
-- You can subscribe to the RSS feed for this website <a href="https://into-ai-safety.github.io/feed.xml" target="_blank" rel="noreferrer noopener">here</a>.
+- Content will be released every week at 9:00am Mountain Time on Monday mornings (see time conversion chart below for other time zones).
+- I will alternate between full length episodes and shorter minisodes (~15 min).
+- All episodes will be published on this website and to all podcast platforms linked here.
+- This website has its own <a href="https://into-ai-safety.github.io/feed.xml" target="_blank" rel="noreferrer noopener">RSS</a> feed.
 <br>
 
 ### Additional Information
@@ -26,7 +26,6 @@ For more information on the host, Jacob Haimes, you can visit my <a href="https:
 
 ##### Time Conversion Table
 
-<center>
 <table>
   <tr>
     <th>Timezone</th>
@@ -74,4 +73,3 @@ For more information on the host, Jacob Haimes, you can visit my <a href="https:
     <td>-8</td>
   </tr>
 </table>
-</center>
