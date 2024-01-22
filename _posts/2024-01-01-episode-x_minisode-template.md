@@ -1,11 +1,11 @@
 ---
 title: "MINISODE: "
-date: 2024-01-29T00:00:00-07:00
+date: 2024-01-01T00:00:00-07:00
 published: false
 categories:
   - Minisode
 tags:
-  - Ep.9
+  - Ep.
 ---
 
 Description
