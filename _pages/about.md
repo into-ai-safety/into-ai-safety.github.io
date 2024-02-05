@@ -15,8 +15,8 @@ The official website for the Into AI Safety podcast.
 ### Additional Information
 
 The podcast intro was written and created by Chase Precopia, who also does the audio editing and mastering for the podcast, starting with episode 3.
-
-The album cover image was generated with <a href="https://beta.dreamstudio.ai/dream" target="_blank" rel="noreferrer noopener">DreamStudio</a>. Once I have this podcast more established, I plan on contracting an artist to design a more permanent version.
+<!-- 
+The album cover image was generated with <a href="https://beta.dreamstudio.ai/dream" target="_blank" rel="noreferrer noopener">DreamStudio</a>. Once I have this podcast more established, I plan on contracting an artist to design a more permanent version. -->
 
 If you have any suggestions, comments, or concerns, please email me at <intoaisafety@gmail.com>.
 
