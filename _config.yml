@@ -90,6 +90,8 @@ author:
     - label: "Spotify"
       # icon: "assets/images/platform-branding/spotify-logo-scaled.png"
       url: "https://open.spotify.com/show/5AGzrA4jo6mgZuibVabTLM"
+    - label: "YouTube"
+      url: "https://www.youtube.com/playlist?list=PL4wh4RzMmaBc7gHBn7mRTxsiVirgyv76p"
     # - label: "Spotify for Podcasters"
     #   # icon: "assets/images/platform-branding/spotify-for-podcasters-logo-scaled.png"
     #   url: "https://podcasters.spotify.com/pod/show/into-ai-safety"
