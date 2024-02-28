@@ -3,6 +3,12 @@ permalink: /about/
 title: "About"
 ---
 The official website for the Into AI Safety podcast.
+<br>
+
+<div style="text-align:center; background-color:#2f69bb; border-color:#FD9A63; border-width:3px; border-style:solid;  padding:1em; border-radius:15px">
+If you have found my work valuable, and would like to support me in my effort to make it sustainable, please consider supporting me! Click the coindrop button below to view different ways to do just that.<div style="line-height:3px"><br></div>
+<br><a href='https://coindrop.to/intoaisafety' target='_blank'><img src='https://coindrop.to/embed-button.png' style='border-color:#151515; border-width: 2px; border-radius: 10px; height: 57px !important;width: 229px!important;' alt='Coindrop.to me'></a>
+</div>
 
 ### Logistics
 
@@ -10,9 +16,6 @@ The official website for the Into AI Safety podcast.
 - I will alternate between full length episodes (~50-75 min) and shorter minisodes (~10-15 min).
 - All episodes will be published on this website and to all podcast platforms linked here.
 - This website has its own <a href="https://into-ai-safety.github.io/feed.xml" target="_blank" rel="noreferrer noopener">RSS</a> feed.
-<br>
-If you have found my work valuable, and would like to support me in my effort to make it sustainable, please consider supporting me! Click the coindrop button below to view different ways to do just that.<br>
-<a href='https://coindrop.to/intoaisafety' target='_blank'><img src='https://coindrop.to/embed-button.png' style='border-radius: 10px; !important;height: 57px!important; width: 229px' alt='Coindrop.to me'></a>"
 <br>
 
 ### Additional Information
