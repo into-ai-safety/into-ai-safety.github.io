@@ -11,6 +11,9 @@ The official website for the Into AI Safety podcast.
 - All episodes will be published on this website and to all podcast platforms linked here.
 - This website has its own <a href="https://into-ai-safety.github.io/feed.xml" target="_blank" rel="noreferrer noopener">RSS</a> feed.
 <br>
+If you have found my work valuable, and would like to support me in my effort to make it sustainable, please consider supporting me! Click the coindrop button below to view different ways to do just that.<br>
+<a href='https://coindrop.to/intoaisafety' target='_blank'><img src='https://coindrop.to/embed-button.png' style='border-radius: 10px; !important;height: 57px!important; width: 229px' alt='Coindrop.to me'></a>"
+<br>
 
 ### Additional Information
 

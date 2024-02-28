@@ -115,7 +115,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/into-ai-safety/into-ai-safety.github.io"
     - label: "Coindrop"
-      icon: "fa-solid fa-piggy-bank"
+      icon: "fas fa-fw fa-comment-dollar"
       url: "https://coindrop.to/intoaisafety"
   
 
