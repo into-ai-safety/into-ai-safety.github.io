@@ -64,7 +64,7 @@ plugins:
 author:
   name   : "Into AI Safety"
   avatar : "/assets/images/IAIS-logo_album-cover.png"
-  bio    : "Welcome to the Into AI Safety podcast website!<br><br>Please email all inquiries to <a href='mailto:intoaisafety@gmail.com' style='color: #FD9A63'>intoaisafety@gmail.com</a><br><br><a href='https://coindrop.to/intoaisafety' target='_blank'><img src='https://coindrop.to/embed-button.png' style='border-radius: 10px; height: 57px !important;width: 229px !important;' alt='Coindrop.to me'></a>."
+  bio    : "Welcome to the Into AI Safety podcast website!<br><br>Please email all inquiries to <a href='mailto:intoaisafety@gmail.com' style='color: #FD9A63'>intoaisafety@gmail.com</a><br><br><a href='https://coindrop.to/intoaisafety' target='_blank'><img src='https://coindrop.to/embed-button.png' style='border-radius: 10px; height: 57px !important;width: 229px !important;' alt='Coindrop.to me'></a>"
   # Like the show? Think it could be improved? Fill out an anonymous <a href='https://docs.google.com/forms/d/e/1FAIpQLSdXqpGGb0uWgpQd8CUvKP6g2Ki8FrDsEBzFfQBrBoSZPlxjDQ/viewform?usp=sf_link' target='_blank' rel='noreferrer noopener' style='color: #FD9A63'>feedback form</a> to let me know!<br><br>
   links:
     - label: "Amazon Music"
