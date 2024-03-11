@@ -7,8 +7,10 @@ The official website for the Into AI Safety podcast.
 
 <div style="text-align:center; background-color:#2f69bb; border-color:#FD9A63; border-width:3px; border-style:solid;  padding:1em; border-radius:15px">
 If you have found my work valuable, and would like to support me in my effort to make it sustainable, please consider supporting me!<div style="line-height:3px"><br></div>
-<br><a href="https://www.patreon.com/bePatron?u=35047259" data-patreon-widget-type="become-patron-button">Become a member!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+<br><a href="https://www.patreon.com/bePatron?u=35047259" data-patreon-widget-type="become-patron-button">Become a member!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script><br>[Become a member](https://www.patreon.com/bePatron?u=35047259){: .btn .btn--primary .btn--large}
 </div>
+
+<a href="https://www.patreon.com/bePatron?u=35047259" data-patreon-widget-type="become-patron-button">Become a member!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
 ### Logistics
 
