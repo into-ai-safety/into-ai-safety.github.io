@@ -7,14 +7,11 @@ The official website for the Into AI Safety podcast.
 
 <div style="text-align:center; background-color:#2f69bb; border-color:#FD9A63; border-width:3px; border-style:solid;  padding:1em; border-radius:15px">
 If you have found my work valuable, and would like to support me in my effort to make it sustainable, please consider supporting me!<div style="line-height:3px"><br></div>
-<br><a href="https://www.patreon.com/bePatron?u=35047259" class="btn" data-patreon-widget-type="become-patron-button" style="text-align:center; background-color:#00c3fd; padding:1em; border-radius:15px">Become a member</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+<br><a href="https://www.patreon.com/bePatron?u=35047259" class="btn btn--primary">Become a member</a>
 </div>
 
-<a href="https://www.patreon.com/bePatron?u=35047259" class="btn btn--primary">Become a member</a>
 
-<a href="https://www.patreon.com/bePatron?u=35047259" class="btn btn">Become a member</a>
-
-<a href="https://www.patreon.com/bePatron?u=35047259" class="btn btn--info">Become a member</a>
+<a href="https://www.patreon.com/bePatron?u=35047259" class="btn">Become a member</a>
 <!-- <script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script> -->
 
 <!-- style="text-align:center; background-color:#00c3fd; padding:1em; border-radius:15px" -->
@@ -95,42 +92,42 @@ For more information on the host, Jacob Haimes, you can visit my <a href="https:
   </tr>
   <tr>
     <td>Australian Central Daylight Time</td>
-    <td>02:30 (Tuesday)</td>
+    <td>01:30 (Tuesday)</td>
     <td>+10.5</td>
   </tr>
   <tr>
     <td>China Standard Time</td>
-    <td>00:00 (Tuesday)</td>
+    <td>23:00</td>
     <td>+8</td>
   </tr>
   <tr>
     <td>India Standard Time</td>
-    <td>21:30</td>
+    <td>20:30</td>
     <td>+5.5</td>
   </tr>
   <tr>
     <td>Israel Standard Time</td>
-    <td>18:00</td>
+    <td>17:00</td>
     <td>+2</td>
   </tr>
   <tr>
     <td>Greenwich Time</td>
-    <td>16:00</td>
+    <td>15:00</td>
     <td>+0</td>
   </tr>
   <tr>
-    <td>Eastern Standard Time</td>
+    <td>Eastern Daylight Time</td>
     <td>11:00</td>
-    <td>-5</td>
+    <td>-4</td>
   </tr>
   <tr>
-    <td>Mountain Standard Time</td>
+    <td>Mountain Daylight Time</td>
     <td>09:00</td>
-    <td>-7</td>
+    <td>-6</td>
   </tr>
   <tr>
-    <td>Pacific Standard Time</td>
+    <td>Pacific Dayight Time</td>
     <td>08:00</td>
-    <td>-8</td>
+    <td>-7</td>
   </tr>
 </table>
