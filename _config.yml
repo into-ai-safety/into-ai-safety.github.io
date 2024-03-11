@@ -116,8 +116,8 @@ footer:
     - label: "GitHub Repo"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/into-ai-safety/into-ai-safety.github.io"
-    - label: "Coindrop"
-      icon: "fas fa-fw fa-patreon"
+    - label: "Patreon"
+      icon: "fab fa-fw fa-patreon"
       url: "https://www.patreon.com/IntoAISafety"
   
 
