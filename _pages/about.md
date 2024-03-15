@@ -125,3 +125,5 @@ For more information on the host, Jacob Haimes, you can visit my <a href="https:
     <td>-7</td>
   </tr>
 </table>
+
+<a rel="me" href="https://mastodon.social/@intoaisafety">Mastodon</a>
