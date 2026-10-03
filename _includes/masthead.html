@@ -1,12 +1,37 @@
 {%- comment -%}
-  Override of minimal-mistakes' masthead.html: adds a site-wide archive notice
-  above the standard masthead. Everything below the notice is the upstream file.
+  Override of minimal-mistakes' masthead.html: adds a site-wide archive banner
+  above the standard masthead. Everything from the "assign locale" line down is the upstream file.
+  The banner is sticky so it stays visible at the top of the viewport on every page.
 {%- endcomment -%}
-<div class="notice--warning" role="note" style="margin:0; border-radius:0; text-align:center; font-size:0.9em;">
-  <strong>Archive:</strong> this site is no longer updated and is kept for posterity.
-  Into AI Safety continues at <a href="https://kairos.fm/intoaisafety/">Kairos.fm</a>
-  (<a href="https://kairos.fm/intoaisafety/episodes/">all episodes</a>) &middot;
-  <a href="https://www.patreon.com/Kairosfm">Patreon</a>
+<style>
+  .archive-banner {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background: #FD9A63;
+    color: #111;
+    text-align: center;
+    padding: 0.7em 1em;
+    font-size: 1.05em;
+    font-weight: 600;
+    line-height: 1.35;
+    border-bottom: 3px solid #2f69bb;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+  }
+  .archive-banner a { color: #0b2a5b; text-decoration: underline; font-weight: 700; }
+  .archive-banner a:hover { color: #000; }
+  .archive-banner .archive-banner__links { display: block; font-weight: 500; font-size: 0.9em; margin-top: 0.2em; }
+  /* keep in-page anchors and the sticky sidebar from sliding under the banner */
+  html { scroll-padding-top: 6em; }
+  .sidebar.sticky { top: 6em !important; }
+</style>
+<div class="archive-banner" role="note">
+  &#9888; ARCHIVE &mdash; this site is no longer updated and is kept for posterity.
+  <span class="archive-banner__links">
+    Current episodes: <a href="https://kairos.fm/intoaisafety/">Kairos.fm</a> &middot;
+    <a href="https://kairos.fm/intoaisafety/episodes/">all episodes</a> &middot;
+    <a href="https://www.patreon.com/Kairosfm">Patreon</a>
+  </span>
 </div>
 
 {% assign locale = include.locale | default: site.locale %}
