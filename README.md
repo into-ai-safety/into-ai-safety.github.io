@@ -3,7 +3,7 @@
 > **This repository is archived and no longer updated.** It is kept for posterity and contains only the early episodes (0–18) of the Into AI Safety podcast.
 >
 > - Current site and episodes: [kairos.fm/intoaisafety](https://kairos.fm/intoaisafety/)
-> - Support the work: [patreon.com/Kairosfm](https://www.patreon.com/Kairosfm)
+> - Support the work: [patreon.com/Kairosfm](https://www.patreon.com/kairosfm)
  
 The archived site is still served at [into-ai-safety.github.io](https://into-ai-safety.github.io).
  
