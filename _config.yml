@@ -13,10 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Into AI Safety Website"
-email: intoaisafety@gmail.com
-description: "Into AI Safety podcast website"
-# twitter_username: username
+title: "Into AI Safety (Archive)"
+email: listen@kairos.fm
+description: "Archived website for the early episodes of the Into AI Safety podcast. No longer updated; the podcast continues at Kairos.fm."
 repository: "into-ai-safety/into-ai-safety.github.io"
 github_username: into-ai-safety
 minimal_mistakes_skin: dark
@@ -64,7 +63,7 @@ plugins:
 author:
   name   : "Into AI Safety"
   avatar : "/assets/images/IAIS-logo_album-cover.png"
-  bio    : "Welcome to the Into AI Safety podcast website!<br><br>Like the show? Consider <a href='https://www.patreon.com/IntoAISafety' style='color: #FD9A63'>supporting me</a> in my effort to democratize the conversations around advanced ML systems.<br><br>Please email all inquiries to <a href='mailto:intoaisafety@gmail.com' style='color: #FD9A63'>intoaisafety@gmail.com</a>"
+  bio    : "<strong>This site is an archive and is no longer updated.</strong> Into AI Safety continues at <a href='https://kairos.fm/intoaisafety/' style='color: #FD9A63'>Kairos.fm</a>.<br><br>Support the work on <a href='https://www.patreon.com/kairosfm' style='color: #FD9A63'>Patreon</a>.<br><br>Inquiries: <a href='mailto:listen@kairos.fm' style='color: #FD9A63'>listen@kairos.fm</a>"
   # <br><br>Like the show? Think it could be improved? Fill out an anonymous <a href='https://docs.google.com/forms/d/e/1FAIpQLSdXqpGGb0uWgpQd8CUvKP6g2Ki8FrDsEBzFfQBrBoSZPlxjDQ/viewform?usp=sf_link' target='_blank' rel='noreferrer noopener' style='color: #FD9A63'>feedback form</a> to let me know!
   links:
     - label: "Amazon Music"
@@ -104,12 +103,12 @@ author:
 # https://fontawesome.com/v5/search?q=money&o=r&m=free
 footer:
   links:
-    - label: "Feedback Form"
-      icon: "fas fa-fw fa-envelope-open-text"
-      url: "https://docs.google.com/forms/d/e/1FAIpQLSdXqpGGb0uWgpQd8CUvKP6g2Ki8FrDsEBzFfQBrBoSZPlxjDQ/viewform?usp=sf_link"
+    # - label: "Feedback Form"
+    #   icon: "fas fa-fw fa-envelope-open-text"
+    #   url: "https://docs.google.com/forms/d/e/1FAIpQLSdXqpGGb0uWgpQd8CUvKP6g2Ki8FrDsEBzFfQBrBoSZPlxjDQ/viewform?usp=sf_link"
     - label: "Email"
       icon: "fas fa-fw fa-at"
-      url: "mailto:intoaisafety@gmail.com"
+      url: "mailto:listen@kairos.fm"
     # - label: "Spotify"
     #   icon: "fab fa-fw fa-spotify"
     #   url: "https://open.spotify.com/show/5AGzrA4jo6mgZuibVabTLM"
@@ -118,7 +117,7 @@ footer:
       url: "https://github.com/into-ai-safety/into-ai-safety.github.io"
     - label: "Patreon"
       icon: "fab fa-fw fa-patreon"
-      url: "https://www.patreon.com/IntoAISafety"
+      url: "https://www.patreon.com/kairosfm"
   
 
 
